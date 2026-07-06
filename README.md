@@ -2,7 +2,7 @@
 
 AI Governance | Technology Risk | GRC
 
-Helping organisations translate governance frameworks into operational decisions, measurable controls, and audit-ready evidence.
+Helping organisations translate governance requirements into operational decisions, measurable controls, and audit-ready evidence
 
 13+ years across consulting and regulated environments including PwC, Wells Fargo, Viatris, and JP Morgan Chase.
 
@@ -14,6 +14,6 @@ From AI governance requirements to operational decisions.
 
 ### Explore
 
-- LinkedIn: https://linkedin.com/in/amballa-ramya
-- AI for U&I Newsletter: https://aiforui.substack.com
-- Practitioner Resources: https://ramyavibes2.gumroad.com
+- [LinkedIn](https://linkedin.com/in/amballa-ramya)
+- [AI for U&I Newsletter](https://aiforui.substack.com)
+- [Practitioner Resources](https://ramyavibes2.gumroad.com)
