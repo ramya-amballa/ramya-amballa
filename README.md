@@ -6,7 +6,7 @@ Helping organisations translate governance frameworks into operational decisions
 
 13+ years across consulting and regulated environments including PwC, Wells Fargo, Viatris, and JP Morgan Chase.
 
-## Operational AI Governance — Powered by the OPERA Methodology
+## Operational AI Governance - Powered by the OPERA Methodology
 
 From AI governance requirements to operational decisions.
 
