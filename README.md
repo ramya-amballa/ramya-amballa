@@ -6,6 +6,8 @@ Helping organizations operationalize governance into measurable controls and aud
 
 13+ years across consulting and regulated industries including PwC, Wells Fargo, Viatris, and JP Morgan.
 
+![OPERA Methodology](images/opera-methodology-v1.png)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amballa--ramya-blue)](https://linkedin.com/in/amballa-ramya)
 [![Newsletter](https://img.shields.io/badge/Newsletter-AI%20for%20U%26I-orange)](https://aiforui.substack.com)
 [![Resources](https://img.shields.io/badge/Resources-Practitioner%20Toolkit-green)](https://ramyavibes2.gumroad.com)
