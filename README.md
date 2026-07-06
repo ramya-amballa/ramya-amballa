@@ -23,6 +23,7 @@ From AI governance requirements to operational decisions.
 - [Case Studies](05-Case-Studies/)
 - [Templates](06-Templates/)
 
+---
 - [LinkedIn](https://linkedin.com/in/amballa-ramya)
 - [AI for U&I Newsletter](https://aiforui.substack.com)
 - [Practitioner Resources](https://ramyavibes2.gumroad.com)
