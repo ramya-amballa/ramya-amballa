@@ -166,5 +166,12 @@ grc-ai-governance-toolkit/
 - Audit and compliance readiness
 
 ---
+## Repository Structure
 
+- [OPERA Methodology](01-OPERA-Methodology/)
+- [Decision Lab](02-Decision-Lab/)
+- [Implementation Lab](03-Implementation-Lab/)
+- [Practitioner Resources](04-Practitioner-Resources/)
+- [Case Studies](05-Case-Studies/)
+- [Templates](06-Templates/)
 *"Governance becomes meaningful when policies turn into decisions and evidence."*
