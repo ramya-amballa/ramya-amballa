@@ -10,7 +10,7 @@ Helping organisations translate governance requirements into operational decisio
 
 From AI governance requirements to operational decisions.
 
-![OPERA Methodology](https://raw.githubusercontent.com/ramya-amballa/grc-ai-governance-toolkit/main/images/opera-methodology-v1.png)
+![OPERA Methodology](https://raw.githubusercontent.com/ramya-amballa/grc-ai-governance-toolkit/main/images/OPERA_Methodology_v1.1.png)
 
 ### Explore
 
